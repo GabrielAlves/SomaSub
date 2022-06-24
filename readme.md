@@ -1,6 +1,6 @@
 # SomaSub
 
-Projeto antigo feito para a disciplina "Circuitos digitais". Esse projeto é um somador subtrator completo que soma e subtrai dois números de 4 bits e apresenta o resultado como um número hexadecimal em um display de 7 segmentos. Foi feito em conjunto com Enzo Eduardo Cassiano Ibiapina e implementado no software Logisim. 
+Projeto antigo feito para a disciplina "Circuitos digitais". É um somador subtrator completo que soma e subtrai dois números de 4 bits e apresenta o resultado como um número hexadecimal em um display de 7 segmentos. Foi feito em conjunto com [Enzo Eduardo Cassiano Ibiapina](https://github.com/EnzEdu) e implementado no software Logisim. 
 
 O projeto é composto por 5 circuitos: *display_hexadecimal* 1 e 2 determinam o funcionamento do display para unidade e dezena. *somador_subtrator_completo* determina a soma/subtração de 2 números de 1 bit. *somador_subtrator_conjunto* agrupa e organiza vários somadores/subtratores pra realizar a operação com números de 4 bits. *main* é basicamente uma "interface" que liga os binários tanto dos operandos quanto do resultado aos displays.
 
